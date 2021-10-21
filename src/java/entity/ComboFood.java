@@ -20,7 +20,7 @@ public class ComboFood {
     private String name;            // Name of combo food
     private int price;              // Price of combo food
     private int amount;             // Amount of combo food
-    private int idOrder;            // Id of order
+    private int idOrder;            // Id of order 1111111111111111111111
 
     /**
      * Constructor of <code> ComboFood </code> class
