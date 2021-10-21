@@ -1,0 +1,39 @@
+#aboutus{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #222121;
+    padding: 40px 0px;
+    margin-top: 40px;
+    /*xanh la : #288b3f*/
+}
+.icon_contact{
+    display: flex;
+    flex-direction: column;
+}
+.about_title{
+    font-weight: 600;
+    font-size: 18px;
+    color: #288b3f;
+}
+.icon_contact i{
+    font-size: 25px;
+    margin: 15px 0px;
+    color: #c0c2c5;
+}
+.about_col
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.about_content{
+    margin-top: 30px;
+}
+.about_content p{
+    margin-bottom: 5px;
+    color: #c0c2c5;
+}
+
+
+

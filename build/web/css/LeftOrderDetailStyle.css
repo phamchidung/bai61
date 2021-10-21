@@ -1,0 +1,23 @@
+.order-info-line {
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+.order-info p{
+    margin-bottom: 0px;
+}
+
+.color-dodgerblue {
+    font-weight: bold;
+    color: dodgerblue;
+}
+
+.total-money p {
+    margin-bottom: 0px;
+}
+
+.inlinte-block {
+    display: inline-block;
+}

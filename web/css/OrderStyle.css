@@ -1,0 +1,93 @@
+.color-black {
+    color: black;
+    font-weight: bold;
+}
+
+.navbar-nav {
+    align-items: center;
+}
+
+.active p {
+    color: white;
+    background-color: green;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.line-bottom {
+    padding-bottom: 20px;
+    border-bottom: 1px solid gray;
+}
+
+.search-name {
+    width: 60px;
+    display: inline-block;
+}
+
+.search {
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.btnSubmit {
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+}
+
+.thead-green {
+    background-color: green;
+    color: white;
+}
+
+.btn-move-page {
+    background-color: green;
+    color: white;
+    border-radius: 15px;
+}
+
+.center {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.search-parent {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    width: 700px;
+}
+
+.move-page-parent {
+    margin-top: 30px;
+}
+
+.mb20 {
+    margin-bottom: 20px;
+}
+
+.mt20{
+    margin-top: 20px;
+}
+
+.table-border-custom {
+    border: 1px solid lavender;
+}
+
+.color-green{
+    font-weight: bold;
+    color: green;
+}
+
+.error {
+    font-weight: bold;
+    color: red;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.order-info-status {
+    color: red;
+    font-size: 20px;
+}

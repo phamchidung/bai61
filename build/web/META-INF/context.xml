@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/order">
+  <Environment name="serverName" type="java.lang.String" value="LAPTOP-9LBTDVFO\\SQLEXPRESS"/>
+  <Environment name="dbName" type="java.lang.String" value="RestaurantServices"/>
+  <Environment name="portNumber" type="java.lang.String" value="1433"/>
+  <Environment name="image" type="java.lang.String" value="images/"/>
+</Context>
